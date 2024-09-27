@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@11ty/eleventy": "git://github.com/11ty/eleventy.git#45a8135c0583fd379532c1cdaa5c7e8484183d98",
+    "@11ty/eleventy": "^2.0.1",
     "case": "^1.6.1",
     "classnames": "^2.2.6",
     "cli-progress": "^3.6.0",
